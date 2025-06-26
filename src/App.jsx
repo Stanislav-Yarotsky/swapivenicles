@@ -1,10 +1,11 @@
 import './App.css'
-import SwapiVenicles from './SwapiVenicles'
+import './char.css'
+import TheRickandMorty from './TheRickandMorty'
 function App() {
   return (
     <>
-      <h1>Vite + React</h1>
-      <SwapiVenicles />
+      <h1>Vite + React The Rick and Morty</h1>
+      <TheRickandMorty />
     </>
   )
 }
